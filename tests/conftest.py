@@ -18,6 +18,6 @@ def driver_management():
 
     session_id = browser.driver.session_id
 
-    allure.step('close app session')(browser.quit)()
+    allure.step('Закрыть сессию')(browser.quit)()
 
     utils.allure.attach.video_from_browserstack(session_id)

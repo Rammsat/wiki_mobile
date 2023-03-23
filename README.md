@@ -36,14 +36,14 @@
 [К оглавлению ⬆](#оглавление)
 
 <a name="запуск_дженкинс"></a>
-# Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/browserstack_tests/) выглядит следующим образом
+# Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/wiki_mobile/) выглядит следующим образом
 Главная страница сборки
 ![](media/jenkins_mobile.png)
 
 [К оглавлению ⬆](#оглавление)
 
 <a name="report"></a>
-# [Отчет](https://jenkins.autotests.cloud/job/browserstack_tests/allure/) о выполнении тестов
+# [Отчет](https://jenkins.autotests.cloud/job/wiki_mobile/allure/) о выполнении тестов
 ![](media/allurereport_mobile.png)
 
 Каждый тест, независимо от результата, состоит из:

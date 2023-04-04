@@ -62,6 +62,12 @@
 # Пример прохождения теста на удаленной машине
 ![](media/video_mobile.gif)
 
+# Пример прохождения теста на эмуляторе
+![](media/emul.gif)
+
+# Пример прохождения теста на реальном устройстве
+![](media/real.gif)
+
 [К оглавлению ⬆](#оглавление)
 <a name="телеграм"></a>
 # По результатам работы тестов отправляется краткий отчет в Telegram
@@ -69,14 +75,14 @@
 
 [К оглавлению ⬆](#оглавление)
 <a name="проект"></a> 
-# Создан проект в Allure TestOps
+# Создан проект в [Allure TestOps](https://allure.autotests.cloud/project/2071/test-cases?treeId=0)
 ![](media/testops_mobile.png)
 
 [К оглавлению ⬆](#оглавление)
 
 
 <a name="дашборд"></a> 
-# Настроен Dashboard с разными показателями
+# Настроен [Dashboard](https://allure.autotests.cloud/project/2071/dashboards) с разными показателями
 ![](media/testops_mobile2.png)
 
 [К оглавлению ⬆](#оглавление)
